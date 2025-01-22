@@ -13,4 +13,6 @@ The repository shows how to use machine learning to predict monthly ground water
  "Groundwater Prediction Using Machine Learning Tools". 2020
 
    This code is wriiten and tested on python Jupyter notebook.
-   Date: 19/10/2020
+   Date: 19/10/2022
+   by Likith Kanumuri
+   @https://www.linkedin.com/in/likith-kanumuri-5b0529287/
